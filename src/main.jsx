@@ -2074,7 +2074,7 @@ function Catalog({ personal = false }) {
                 </p>
                 <div className="hero-actions">
                   <a className="btn btn-primary" href="#catalog">
-                    מוצאים את הקורס שלי <ArrowLeft size={17} />
+                    מה לומדים היום? <ArrowLeft size={17} />
                   </a>
                   <Link
                     className="btn btn-light"

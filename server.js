@@ -940,7 +940,7 @@ app.use((e, req, res, next) => {
 });
 async function seed() {
   const data = JSON.parse(
-    fs.readFileSync(path.join(ROOT, "public/catalog.json"), "utf8"),
+    fs.readFileSync(path.join(ROOT, "data/catalog.json"), "utf8"),
   );
   for (const c of data) {
     await Course.updateOne({ id: c.id }, { $setOnInsert: c }, { upsert: true });
