@@ -65,7 +65,6 @@ import {
 } from "lucide-react";
 import "bootstrap/dist/css/bootstrap.rtl.min.css";
 
-// 1. עיצוב משותף — כל קוד הממשק והעיצוב נמצא בקובץ זה.
 const css = `
 @import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700;800;900&display=swap");
 :root {
@@ -1574,7 +1573,6 @@ a:focus-visible {
 }
 `;
 
-// 2. תקשורת עם השרת ואימות חשבון. אין שמירת סיסמאות בדפדפן.
 const API = import.meta.env.VITE_API_BASE || "";
 async function request(url, method = "GET", body) {
   const res = await fetch(API + url, {
@@ -2301,7 +2299,7 @@ function Catalog({ personal = false }) {
   );
 }
 
-// 3. כניסה, הרשמה והפרופיל
+// כניסה, הרשמה והפרופיל
 function AuthPage({ register = false }) {
   const { mode, user, setUser, refresh } = useApp(),
     nav = useNavigate(),
@@ -2618,7 +2616,7 @@ function Profile() {
   );
 }
 
-// 4. קורסים, שיעורים ודירוגים
+// קורסים, שיעורים ודירוגים
 function RatingBox({ course, lessonId, onClose }) {
   const { learning, notify, refresh } = useApp(),
     target = lessonId || course.id,
@@ -3195,7 +3193,7 @@ function WatchPage() {
   );
 }
 
-// 5. פורום — אותם מסכים לתלמידים ולמנהלים, פעולות לפי בעלות והרשאה.
+// פורום — אותם מסכים לתלמידים ולמנהלים, פעולות לפי בעלות והרשאה.
 function Forum() {
   const { topicId, postId } = useParams(),
     { user, notify } = useApp(),
@@ -3650,7 +3648,7 @@ function Forum() {
   );
 }
 
-// 6. ניהול — אותו מקור נתונים, עם הרשאות שרת אמיתיות במצב מחובר.
+// ניהול — אותו מקור נתונים, עם הרשאות שרת
 function AdminFrame({ children }) {
   const loc = useLocation();
   return (

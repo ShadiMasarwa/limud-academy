@@ -1,4 +1,3 @@
-// לימוד — כל קוד השרת בקובץ אחד. Node.js + Express + MongoDB.
 import "dotenv/config";
 import express from "express";
 import mongoose from "mongoose";
@@ -13,12 +12,10 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-// 1. הגדרות ומודלים
+// הגדרות ומודלים
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
 const SECRET = process.env.JWT_SECRET;
-// ברירת המחדל מיועדת להרצה מקומית עם MongoDB Community.
-// בסביבת פרודקשן יש להגדיר MONGODB_URI מפורשות דרך משתני הסביבה.
 const MONGODB_URI =
   process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/limud_academy";
 const ORIGIN = process.env.CLIENT_ORIGIN || "http://localhost:5173";
@@ -158,7 +155,7 @@ const Reply = mongoose.model(
     options,
   ),
 );
-// שרת אינו מקבל completed=true מהלקוח. הוא צובר מקטעים ומאמת את ההשלמה.
+
 const watchSchema = new mongoose.Schema({
   key: { type: String, unique: true },
   userId: mongoose.Schema.Types.ObjectId,
@@ -170,7 +167,7 @@ const watchSchema = new mongoose.Schema({
 });
 const Watch = mongoose.model("Watch", watchSchema);
 
-// 2. פונקציות עזר ו־middleware
+// פונקציות עזר ו־middleware
 function fail(status, message, code) {
   const e = new Error(message);
   e.status = status;
@@ -337,7 +334,7 @@ app.use(
     legacyHeaders: false,
   }),
 );
-// מחייבים Origin מאושר לכל שינוי: הגנת CSRF לממשק המבוסס Cookie.
+
 app.use("/api", (req, res, next) => {
   if (
     !["GET", "HEAD", "OPTIONS"].includes(req.method) &&
@@ -360,7 +357,7 @@ app.get("/api/health", (req, res) =>
   }),
 );
 
-// 3. הרשמה, כניסה ופרופיל
+// הרשמה, כניסה ופרופיל
 app.post("/api/auth/register", authLimit, async (req, res) => {
   const name = required(req.body.name, "שם", 60),
     email = required(req.body.email, "דוא״ל", 254).toLowerCase();
@@ -415,7 +412,7 @@ app.post("/api/me/change-password", auth, async (req, res) => {
   res.json({ ok: true });
 });
 
-// 4. קורסים והתקדמות
+// קורסים והתקדמות
 app.get("/api/catalog", async (req, res) => {
   const courses = await Course.find({ status: "published" }).lean(),
     stats = await Rating.aggregate([
@@ -522,7 +519,7 @@ app.put(
       delta <= Math.min(elapsed, 20) * speed + 1.5
         ? [Math.max(0, w.lastPosition), Math.min(pos, l.duration)]
         : null;
-    // עדכון אופטימי מונע אובדן מקטעים בין שתי לשוניות.
+
     for (let i = 0; i < 5; i++) {
       const ranges = segment ? mergeRanges([...p.ranges, segment]) : p.ranges;
       const updated = await Progress.findOneAndUpdate(
@@ -612,7 +609,7 @@ app.put("/api/courses/:id/rating", auth, async (req, res) => {
   );
 });
 
-// 5. פורום — הודעות ותגובות מקוננות
+// פורום — הודעות ותגובות מקוננות
 async function authorNames(items) {
   const ids = [...new Set(items.map((x) => String(x.authorId)))],
     users = await User.find({ _id: { $in: ids } }).lean();
@@ -722,7 +719,7 @@ for (const [kind, Model] of [
   });
 }
 
-// 6. ניהול קורסים, נושאים ומשתמשים
+// ניהול קורסים, נושאים ומשתמשים
 app.use("/api/admin", auth, admin);
 app.get("/api/admin/courses", async (req, res) =>
   res.json(await Course.find().lean()),
@@ -914,11 +911,10 @@ app.get("/api/admin/dashboard", async (req, res) => {
   });
 });
 
-// 7. שרת קבצים, שגיאות ואתחול מפורש
+// שרת קבצים, שגיאות ואתחול
 app.use("/api", (req, res) =>
   res.status(404).json({ message: "הפעולה אינה קיימת" }),
 );
-// קובץ התוכן המלא משמש את האתחול וההדגמה בלבד, ואינו מוגש בשרת האמיתי.
 app.get("/catalog.json", (req, res) => res.sendStatus(404));
 app.use(express.static(path.join(ROOT, "dist")));
 app.get("/{*path}", (req, res) =>
