@@ -1,0 +1,2118 @@
+[
+  {
+    "id": "csharp",
+    "playlistId": "PLmbMfZcvCU-e1iHUNFSipCxYZIJ-JnLfI",
+    "sourceTitle": "מדריך לימוד שפת C#",
+    "lessons": [
+      {
+        "id": "csharp-1",
+        "youtubeId": "zyvCj36_Yiw",
+        "title": "C# Tutorial for beginners - Part 1 C# קורס תכנות",
+        "duration": 1364,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "csharp-2",
+        "youtubeId": "G1qfl0cM5Jg",
+        "title": "C# Tutorial - Part 2 - Namespace, Main method, Comments - C# קורס תכנות",
+        "duration": 1004,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "csharp-3",
+        "youtubeId": "NumFO8VKMbk",
+        "title": "C# Tutorial - Part 3 - Reading & Writing to Console - C# קורס תכנות",
+        "duration": 912,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "csharp-4",
+        "youtubeId": "TX8S5j-XOyk",
+        "title": "C# Tutorial - Part 4 - Build-In Data Types - C# קורס תכנות",
+        "duration": 1462,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "csharp-5",
+        "youtubeId": "QreoAykrk2M",
+        "title": "C# Tutorial - Part 5 - String Data Types, Methods, Escape sequence - C# קורס תכנות",
+        "duration": 1793,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "csharp-6",
+        "youtubeId": "2nHrISU0c5Q",
+        "title": "C# Tutorial - Part 6 - Assign, Comparison,Arithmetic,Conditional Operators  - C# קורס תכנות",
+        "duration": 1787,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "csharp-7",
+        "youtubeId": "LuCn3y43xF8",
+        "title": "C# Tutorial - Part 7 - Datatype Conversion , Explicit & Implicit Conversion - C# קורס תכנות",
+        "duration": 1369,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "csharp-8",
+        "youtubeId": "DLBjbsjyBeA",
+        "title": "C# Tutorial - Part 8 - if statement - C# קורס תכנות",
+        "duration": 1017,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "csharp-9",
+        "youtubeId": "Um77BCWeGGg",
+        "title": "C# Tutorial - Part 9 - switch, goto statement - C# קורס תכנות",
+        "duration": 1464,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "csharp-10",
+        "youtubeId": "LbUFXskAGGQ",
+        "title": "C# Tutorial - Part 10 - Arrays- C# קורס תכנות",
+        "duration": 1223,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "csharp-11",
+        "youtubeId": "3IWwLT5NDP8",
+        "title": "C# Tutorial - Part 11 - Visual Studio Debugging- C# קורס תכנות",
+        "duration": 1805,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "csharp-12",
+        "youtubeId": "_aVebcQnNTA",
+        "title": "C# Tutorial - Part 12 - While, do while Loops- C# קורס תכנות",
+        "duration": 929,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "csharp-13",
+        "youtubeId": "fqj-G4CNW-s",
+        "title": "C# Tutorial - Part 13 - for, foreach Loops, break continue- C# קורס תכנות",
+        "duration": 1529,
+        "order": 12,
+        "active": true
+      },
+      {
+        "id": "csharp-14",
+        "youtubeId": "w9tSIobRWsk",
+        "title": "C# Tutorial - Part 14 - Nullable Types - C# קורס תכנות",
+        "duration": 1074,
+        "order": 13,
+        "active": true
+      },
+      {
+        "id": "csharp-15",
+        "youtubeId": "Kl2jU1-LWT0",
+        "title": "C# Tutorial - Part 15 - Methods - פונקציות C# קורס תכנות",
+        "duration": 1428,
+        "order": 14,
+        "active": true
+      },
+      {
+        "id": "csharp-16",
+        "youtubeId": "QDfzC14IlG0",
+        "title": "C# Tutorial - Part 16 - Methods Parameters -פונקציות C# קורס תכנות",
+        "duration": 1549,
+        "order": 15,
+        "active": true
+      },
+      {
+        "id": "csharp-17",
+        "youtubeId": "MQzdaWa7jr4",
+        "title": "C# Tutorial - Part 17 - Namespaces - C# קורס תכנות",
+        "duration": 1091,
+        "order": 16,
+        "active": true
+      },
+      {
+        "id": "csharp-18",
+        "youtubeId": "Mt68C9DF2Xo",
+        "title": "C# Tutorial - Part 18 - Classes- מחלקות  C# קורס תכנות",
+        "duration": 1625,
+        "order": 17,
+        "active": true
+      },
+      {
+        "id": "csharp-19",
+        "youtubeId": "NfliwW8m7hk",
+        "title": "C# Tutorial - Part 19 - Static & Instance class members- C# קורס תכנות",
+        "duration": 1172,
+        "order": 18,
+        "active": true
+      },
+      {
+        "id": "csharp-20",
+        "youtubeId": "jGip_IJY3Nc",
+        "title": "C# Tutorial - Part 20 - Inheritance- C# קורס תכנות",
+        "duration": 1316,
+        "order": 19,
+        "active": true
+      },
+      {
+        "id": "csharp-21",
+        "youtubeId": "_a0xx8w9qzI",
+        "title": "C# Tutorial - Part 21 - Method hiding- C# קורס תכנות",
+        "duration": 813,
+        "order": 20,
+        "active": true
+      },
+      {
+        "id": "csharp-22",
+        "youtubeId": "ZfeW97wROcQ",
+        "title": "C# Tutorial - Part 22 - Polymorphism- C# קורס תכנות",
+        "duration": 744,
+        "order": 21,
+        "active": true
+      },
+      {
+        "id": "csharp-23",
+        "youtubeId": "UjunqVWi1fE",
+        "title": "C# Tutorial - Part 23 - Method hiding/Method Overriding- C# קורס תכנות",
+        "duration": 446,
+        "order": 22,
+        "active": true
+      },
+      {
+        "id": "csharp-24",
+        "youtubeId": "RpEzYz3_BV4",
+        "title": "C# Tutorial - Part 24 - Methods Overloading- C# קורס תכנות",
+        "duration": 980,
+        "order": 23,
+        "active": true
+      },
+      {
+        "id": "csharp-25",
+        "youtubeId": "LrHPvX0Oi74",
+        "title": "C# Tutorial - Part 25 - Properties- C# קורס תכנות",
+        "duration": 1556,
+        "order": 24,
+        "active": true
+      },
+      {
+        "id": "csharp-26",
+        "youtubeId": "hfMPxpWCr7w",
+        "title": "C# Tutorial - Part 26 - Structs- C# קורס תכנות",
+        "duration": 1050,
+        "order": 25,
+        "active": true
+      },
+      {
+        "id": "csharp-27",
+        "youtubeId": "XFdO1b9A_L8",
+        "title": "C# Tutorial - Part 27 - Structs Vs Classes C# קורס תכנות",
+        "duration": 1280,
+        "order": 26,
+        "active": true
+      },
+      {
+        "id": "csharp-28",
+        "youtubeId": "OnDUukVBV1A",
+        "title": "C# Tutorial - Part 28 - Interfaces -  C# קורס תכנות",
+        "duration": 1347,
+        "order": 27,
+        "active": true
+      },
+      {
+        "id": "csharp-29",
+        "youtubeId": "s8AL51uwBIs",
+        "title": "C# Tutorial - Part 29 - Explicit Interface Implementation -  C# קורס תכנות",
+        "duration": 808,
+        "order": 28,
+        "active": true
+      },
+      {
+        "id": "csharp-30",
+        "youtubeId": "jVTo8yswtVo",
+        "title": "C# Tutorial - Part 30 - Abstract Classes -  C# קורס תכנות",
+        "duration": 881,
+        "order": 29,
+        "active": true
+      },
+      {
+        "id": "csharp-31",
+        "youtubeId": "_eTzulbRDw0",
+        "title": "C# Tutorial - Part 31 - Abstract Class Vs Interface C# קורס תכנות",
+        "duration": 536,
+        "order": 30,
+        "active": true
+      }
+    ],
+    "title": "C# — יסודות התכנות",
+    "mark": "C#",
+    "category": "תכנות",
+    "instructor": "Ran Shahak",
+    "description": "ממשתנים ולולאות ועד תכנות מונחה עצמים. בונים בסיס חזק בעולם התוכנה.",
+    "color": "#7157d9",
+    "prerequisites": "ללא ידע קודם",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLmbMfZcvCU-e1iHUNFSipCxYZIJ-JnLfI",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "js",
+    "playlistId": "PLEtZq1oDporgAWT3JJdj9ZJb2nY2dvSdb",
+    "sourceTitle": "מדריך Javascript",
+    "lessons": [
+      {
+        "id": "js-1",
+        "youtubeId": "o-lt_Ju7EcA",
+        "title": "(2019) מדריך javascript - שיעור 1: הקדמה",
+        "duration": 114,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "js-2",
+        "youtubeId": "2-eZ0lVysUE",
+        "title": "מדריך javascript - שיעור 2: תגיות",
+        "duration": 276,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "js-3",
+        "youtubeId": "oWxyj2QfI18",
+        "title": "מדריך javascript - שיעור 3: alert",
+        "duration": 72,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "js-4",
+        "youtubeId": "F6hLRLho0Lc",
+        "title": "מדריך javascript - שיעור 4: משתנים",
+        "duration": 260,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "js-5",
+        "youtubeId": "v-DtxN5ggiE",
+        "title": "מדריך javascript - שיעור 5: סוגי משתנים",
+        "duration": 176,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "js-6",
+        "youtubeId": "c7mqY6QtdQQ",
+        "title": "מדריך javascript - שיעור 6: פונקציות",
+        "duration": 210,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "js-7",
+        "youtubeId": "HFQOANBmEtI",
+        "title": "מדריך javascript - שיעור 7: פונקציות 2",
+        "duration": 215,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "js-8",
+        "youtubeId": "ZfJMR6_l8w4",
+        "title": "מדריך javascript - שיעור 8: פונקציות עם משתנים",
+        "duration": 351,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "js-9",
+        "youtubeId": "y1SW1reExx4",
+        "title": "מדריך javascript - שיעור 9: פונקציות עם חישובים",
+        "duration": 429,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "js-10",
+        "youtubeId": "MjWRRk5kaPA",
+        "title": "מדריך javascript - שיעור 10: פונקציות עם חישובים חלק ב'",
+        "duration": 399,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "js-11",
+        "youtubeId": "drU-Rm21uJQ",
+        "title": "מדריך javascript - שיעור 11: קריאות לפונקציות",
+        "duration": 192,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "js-12",
+        "youtubeId": "TP0qXQe6hz0",
+        "title": "מדריך javascript - שיעור 12: פונקציות מתקדמות",
+        "duration": 403,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "js-13",
+        "youtubeId": "BozHofB7ZzA",
+        "title": "מדריך javascript - שיעור 13: משתנים גלובלים",
+        "duration": 170,
+        "order": 12,
+        "active": true
+      },
+      {
+        "id": "js-14",
+        "youtubeId": "9ChJYpLRB3w",
+        "title": "מדריך javascript - שיעור 14: חישובים מתמטיים",
+        "duration": 129,
+        "order": 13,
+        "active": true
+      },
+      {
+        "id": "js-15",
+        "youtubeId": "Kmd7M_Ddaa4",
+        "title": "מדריך javascript - שיעור 15: מתמטיקה עם משתנים",
+        "duration": 173,
+        "order": 14,
+        "active": true
+      },
+      {
+        "id": "js-16",
+        "youtubeId": "WwCoANnPui8",
+        "title": "מדריך javascript - שיעור 16: התניית if",
+        "duration": 237,
+        "order": 15,
+        "active": true
+      },
+      {
+        "id": "js-17",
+        "youtubeId": "QQ03LKe3Rds",
+        "title": "מדריך javascript - שיעור 17: התניית if else",
+        "duration": 140,
+        "order": 16,
+        "active": true
+      },
+      {
+        "id": "js-18",
+        "youtubeId": "adAsTcW79b4",
+        "title": "קורס javascript - שיעור 18: התניית else-if",
+        "duration": 168,
+        "order": 17,
+        "active": true
+      },
+      {
+        "id": "js-19",
+        "youtubeId": "p39Tn8nrfyU",
+        "title": "קורס javascript - שיעור 19: התניית else-if מורכבת",
+        "duration": 215,
+        "order": 18,
+        "active": true
+      },
+      {
+        "id": "js-20",
+        "youtubeId": "ctmXEDclb7c",
+        "title": "קורס javascript - שיעור 20: לולאת for",
+        "duration": 353,
+        "order": 19,
+        "active": true
+      },
+      {
+        "id": "js-21",
+        "youtubeId": "PaPMOL12V3g",
+        "title": "קורס javascript - שיעור 21: לולאת while",
+        "duration": 226,
+        "order": 20,
+        "active": true
+      },
+      {
+        "id": "js-22",
+        "youtubeId": "-c055WT4-NU",
+        "title": "קורס javascript - שיעור 22: לולאת do while",
+        "duration": 209,
+        "order": 21,
+        "active": true
+      }
+    ],
+    "title": "JavaScript — מהיסודות",
+    "mark": "JS",
+    "category": "פיתוח אתרים",
+    "instructor": "אלי נעים",
+    "description": "הופכים רעיונות לאתרים אינטראקטיביים עם משתנים, פונקציות ועבודה בדפדפן.",
+    "color": "#d2a728",
+    "prerequisites": "היכרות עם HTML ו־CSS",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLEtZq1oDporgAWT3JJdj9ZJb2nY2dvSdb",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "react",
+    "playlistId": "PLnHa2cF4cNDtfkYKO6v069GUPYrJtijwc",
+    "sourceTitle": "קורס React",
+    "lessons": [
+      {
+        "id": "react-1",
+        "youtubeId": "bVPMCmTN__Q",
+        "title": "01 - React introduction",
+        "duration": 4962,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "react-2",
+        "youtubeId": "s_ctvfeA58c",
+        "title": "02 - jsx",
+        "duration": 4155,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "react-3",
+        "youtubeId": "n-GATg31ctE",
+        "title": "03 - create-react-app",
+        "duration": 6080,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "react-4",
+        "youtubeId": "jpmyfv_w-fw",
+        "title": "04 - React Components",
+        "duration": 7733,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "react-5",
+        "youtubeId": "8vgzC3CI510",
+        "title": "05 - React Components EX",
+        "duration": 2443,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "react-6",
+        "youtubeId": "CAobBdYor6U",
+        "title": "06 - React forms",
+        "duration": 8438,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "react-7",
+        "youtubeId": "8BtdI3-ateM",
+        "title": "07 - React forms Ex",
+        "duration": 5100,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "react-8",
+        "youtubeId": "UAQSiaWG9kM",
+        "title": "08 - תקשורת בין React Components",
+        "duration": 4504,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "react-9",
+        "youtubeId": "7pZmBah66zE",
+        "title": "09 - react redux",
+        "duration": 11831,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "react-10",
+        "youtubeId": "3PKv9gG68Pg",
+        "title": "10 - תרגיל react redux",
+        "duration": 7772,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "react-11",
+        "youtubeId": "TR5Dx8_cJcA",
+        "title": "11 - react-router",
+        "duration": 10323,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "react-12",
+        "youtubeId": "e0X9Ipr0OZs",
+        "title": "12 - תרגיל react-router",
+        "duration": 3462,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "react-13",
+        "youtubeId": "Kaz2yD3-8qk",
+        "title": "13 - React כתיבת טסטים",
+        "duration": 15105,
+        "order": 12,
+        "active": true
+      },
+      {
+        "id": "react-14",
+        "youtubeId": "Ht_f1gCj6uo",
+        "title": "14 - React Selenium E2E",
+        "duration": 8580,
+        "order": 13,
+        "active": true
+      },
+      {
+        "id": "react-15",
+        "youtubeId": "-tmLZX6scnY",
+        "title": "HOC, Render Props, Custom Hooks",
+        "duration": 5541,
+        "order": 14,
+        "active": true
+      },
+      {
+        "id": "react-16",
+        "youtubeId": "uQ7QX1-Hlzk",
+        "title": "React היכרות עם tRPC & turborepo",
+        "duration": 3027,
+        "order": 15,
+        "active": true
+      }
+    ],
+    "title": "React — בונים ממשקים",
+    "mark": "React",
+    "category": "פיתוח אתרים",
+    "instructor": "Yariv Katz",
+    "description": "קומפוננטות, JSX וניהול מצב. לומדים לחשוב ולבנות ממשקים בדרך של React.",
+    "color": "#188bac",
+    "prerequisites": "ידע ב־JavaScript",
+    "language": "עברית",
+    "level": "בינוני",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnHa2cF4cNDtfkYKO6v069GUPYrJtijwc",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "bootstrap",
+    "playlistId": "PLP-UKVDk32JjQ91lendOVs9SjFSksi_ko",
+    "sourceTitle": "עונה 2 לימוד BOOTSTRAP 5 CSS 3 ,SASS , CSS GRID",
+    "lessons": [
+      {
+        "id": "bootstrap-1",
+        "youtubeId": "VIsiE328ZLE",
+        "title": "קורס בוטסטראפ 5 - 🍇🎨 -  חלק 1 - מה היא ספריית BOOTSTRAP",
+        "duration": 592,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "bootstrap-2",
+        "youtubeId": "6tvduni5YU0",
+        "title": "קורס בוטסטראפ 5 - 🍇🎨 -  חלק 2 -  צבעים , טקסטים ונקודות שבירה",
+        "duration": 635,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "bootstrap-3",
+        "youtubeId": "WcpP3SFouw4",
+        "title": "קורס בוטסטראפ 5 - 🍇🎨 -  חלק 3 - גריד ונקודות שבירה מתקדם",
+        "duration": 599,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "bootstrap-5",
+        "youtubeId": "x8iE3JzluZA",
+        "title": "קורס בוטסטראפ 5 - 🍇🎨 -  חלק 4 - MARGIN ו PADDING רווחים ב BS ודיב מקונן",
+        "duration": 598,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "bootstrap-6",
+        "youtubeId": "xgzXF_RCeV4",
+        "title": "קורס בוטסטראפ 5 - 🍇🎨 -  חלק 5 - בונים שבלונה יחד חלק א'",
+        "duration": 505,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "bootstrap-7",
+        "youtubeId": "1XXXVINB7XI",
+        "title": "קורס בוטסטראפ 5 - 🍇🎨 -  חלק 6 - מייצרים שבלונה יחד - חלק ב'",
+        "duration": 535,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "bootstrap-8",
+        "youtubeId": "nr9dPe_mBVo",
+        "title": "קורס BOOTSTRAP 5 🎨🍇 - עיצוב טבלאות וטפסים עם BS5",
+        "duration": 597,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "bootstrap-9",
+        "youtubeId": "NdMuZldHRqc",
+        "title": "איך לעלות פרוייקט צד לקוח לשרת בענן , NETLIFY",
+        "duration": 599,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "bootstrap-10",
+        "youtubeId": "Ze8zt6oYRUI",
+        "title": "פוטוטוש חינם למפתחים - כיצד להוריד משקל תמונה + כיצד להוריד רקע לבן לתמונה לרקע שקוף",
+        "duration": 585,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "bootstrap-11",
+        "youtubeId": "E31CDR5Ykqk",
+        "title": "קורס GIT HUB 🍓🚕- חלק 1 איך לעלות פרוייקטים לענן דרך אתר GIT HUB",
+        "duration": 619,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "bootstrap-12",
+        "youtubeId": "0FvcInIH5l8",
+        "title": "קורס GIT HUB 🍓🚕- חלק 2 איך לעלות פרוייקטים לענן דרך  GIT HUB DESKTOP",
+        "duration": 643,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "bootstrap-13",
+        "youtubeId": "h_TBikYlybA",
+        "title": "כיצד לעבוד מול GIT ב VS CODE",
+        "duration": 599,
+        "order": 11,
+        "active": true
+      }
+    ],
+    "title": "Bootstrap 5 ועיצוב אתרים",
+    "mark": "B",
+    "category": "פיתוח אתרים",
+    "instructor": "עופר שלי",
+    "description": "לומדים Bootstrap 5: גריד, עיצוב רספונסיבי, טפסים ובניית עמודים. כולל שיעורי עזר לפרסום פרויקט.",
+    "color": "#7650cc",
+    "prerequisites": "היכרות עם HTML ו־CSS",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLP-UKVDk32JjQ91lendOVs9SjFSksi_ko",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "express",
+    "playlistId": "PLKoG9zrxvudM6lYY5CzQBCo8o3GaSbbzz",
+    "sourceTitle": "מדריך Node.js וExpress",
+    "lessons": [
+      {
+        "id": "express-1",
+        "youtubeId": "P5ilS8KsU7s",
+        "title": "הקדמה | מדריך Node.js + Express",
+        "duration": 45,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "express-2",
+        "youtubeId": "UQbQqzcwt_U",
+        "title": "יצירת פרוייקט חדש | מדריך Node.js + Express",
+        "duration": 471,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "express-3",
+        "youtubeId": "TMFX8chy9kM",
+        "title": "Middlewares && מה זה CORS? | מדריך Node.js + Express",
+        "duration": 669,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "express-4",
+        "youtubeId": "ZsSQIzNFK4Y",
+        "title": "קבלת מידע מהלקוח (bodyParser) | מדריך Node.js + Express",
+        "duration": 504,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "express-5",
+        "youtubeId": "VxsvJosYvxw",
+        "title": "יצירת endpoints עם Express Router | מדריך Node.js + Express",
+        "duration": 1104,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "express-6",
+        "youtubeId": "CW8pcwAUfEU",
+        "title": "התחברות לMongoDB עם Mongoose | מדריך Node.js + Express",
+        "duration": 421,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "express-7",
+        "youtubeId": "UafIBzhoEas",
+        "title": "ליצור, לקרוא, לעדכן, למחוק מMongoDB עם Mongoose | מדריך Node.js + Express",
+        "duration": 1208,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "express-8",
+        "youtubeId": "RMLRN3sgpiU",
+        "title": "יצירת Relationships בMongoDB עם Mongoose | מדריך Node.js + Express",
+        "duration": 1370,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "express-9",
+        "youtubeId": "wNvUXPCPaRY",
+        "title": "שיפור הAPI שלנו | מדריך Node.js + Express",
+        "duration": 729,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "express-10",
+        "youtubeId": "lo5JZw1xyGU",
+        "title": "העלאת קובץ (multer)  | מדריך Node.js + Express",
+        "duration": 727,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "express-11",
+        "youtubeId": "krChgv-MUyA",
+        "title": "הרשמה | מדריך Node.js + Express",
+        "duration": 833,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "express-12",
+        "youtubeId": "N38QkcqsGB0",
+        "title": "התחברות | JWT | מדריך Node.js + Express",
+        "duration": 583,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "express-13",
+        "youtubeId": "m6cNwbAvC0k",
+        "title": "Routes ציבוריים ופרטיים(רק למחוברים) | מדריך Node.js + Express",
+        "duration": 948,
+        "order": 12,
+        "active": true
+      }
+    ],
+    "title": "Express ו־Node.js",
+    "mark": "ex",
+    "category": "פיתוח אתרים",
+    "instructor": "Lior Rabinovich",
+    "description": "הצעד הראשון בצד השרת: נתיבים, בקשות ובניית יישומי רשת עם Express.",
+    "color": "#4a7767",
+    "prerequisites": "ידע ב־JavaScript",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLKoG9zrxvudM6lYY5CzQBCo8o3GaSbbzz",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "automation",
+    "playlistId": "PLIHdc82GFxpscfp13iAgtpoXYE0KBoC1i",
+    "sourceTitle": "המדריך לבניית סוכני AI ב-n8n: אוטומציה למתקדמים 2026",
+    "lessons": [
+      {
+        "id": "automation-1",
+        "youtubeId": "0LRABtDj0AE",
+        "title": "n8n למקצוענים: פותחים עולם חדש של אוטומציות וסוכני AI",
+        "duration": 69,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "automation-2",
+        "youtubeId": "G_FDeAmgtaA",
+        "title": "איך n8n עובד? סיור בממשק והבנת הטריגרים (מדריך למתחילים)",
+        "duration": 715,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "automation-3",
+        "youtubeId": "Rb1sJacnV10",
+        "title": "n8n נגד Make: באיזו פלטפורמת אוטומציה כדאי לכם לבחור ב-2026?",
+        "duration": 462,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "automation-4",
+        "youtubeId": "M5xku3TOohE",
+        "title": "איך לנקות ולסדר נתונים ב-n8n עם Set Node (ולידציה)",
+        "duration": 434,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "automation-5",
+        "youtubeId": "-8bexLlFrzc",
+        "title": "בניית סוכן AI ראשון ב-n8n: המדריך ל-AI Agent Node",
+        "duration": 442,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "automation-6",
+        "youtubeId": "rJWFG9TeS3c",
+        "title": "איך לכתוב פרומפטים מנצחים לסוכני AI בתוך n8n?",
+        "duration": 134,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "automation-7",
+        "youtubeId": "WN8uJhXu-SA",
+        "title": "למה ה-AI שלכם חייב Vector DB? (הסבר על בסיסי נתונים וקטוריים)",
+        "duration": 621,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "automation-8",
+        "youtubeId": "9UGur9eD5tM",
+        "title": "איך להעלות את המידע שלכם ל-Pinecone? (בניית בסיס ידע ל-AI)",
+        "duration": 863,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "automation-9",
+        "youtubeId": "UAo3aYR_zdM",
+        "title": "איך לחבר את סוכן ה-AI שלכם לטלגרם?",
+        "duration": 775,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "automation-10",
+        "youtubeId": "z16XL9p8zQk",
+        "title": "בניית מסע לקוח אוטומטי מקצה לקצה: מדף נחיתה ועד הודעת ווטסאפ",
+        "duration": 1083,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "automation-11",
+        "youtubeId": "7697slxS3Ck",
+        "title": "איך לתקן אוטומציות שבורות? מדריך Debugging ב-n8n",
+        "duration": 161,
+        "order": 10,
+        "active": true
+      }
+    ],
+    "title": "אוטומציות וסוכני AI עם n8n",
+    "mark": "n8n",
+    "category": "אוטומציה ועסקים",
+    "instructor": "פשוטומציה",
+    "description": "מחברים כלים ובונים תהליכים אוטומטיים וסוכני AI, שלב אחר שלב.",
+    "color": "#d66572",
+    "prerequisites": "היכרות בסיסית עם כלי אינטרנט",
+    "language": "עברית",
+    "level": "בינוני",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLIHdc82GFxpscfp13iAgtpoXYE0KBoC1i",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "crm",
+    "playlistId": "PL7iXxH1O3UXNXNJ-d0Bqt-CETcodeFJv_",
+    "sourceTitle": "הדרכות  Fireberry CRM by powerlink 🍒",
+    "lessons": [
+      {
+        "id": "crm-1",
+        "youtubeId": "qqc19ChztpE",
+        "title": "Fireberry CRM: מדריך למשתמש",
+        "duration": 580,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "crm-2",
+        "youtubeId": "jNIrBp0C0eo",
+        "title": "Fireberry by powerlink | יצירת שדות #crm",
+        "duration": 394,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "crm-3",
+        "youtubeId": "iv_7wz2WCMY",
+        "title": "Fireberry by powerlink | עיצוב עמוד #crm",
+        "duration": 387,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "crm-4",
+        "youtubeId": "jU8TsdUOBcw",
+        "title": "איך ליצור ולערוך תצוגות ב-Fireberry CRM?",
+        "duration": 360,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "crm-5",
+        "youtubeId": "GR5AM9H9-5o",
+        "title": "איך להגדיר הרשאות צפייה בתצוגות ב-Fireberry CRM?",
+        "duration": 191,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "crm-6",
+        "youtubeId": "JOr-H5dvTEY",
+        "title": "Fireberry by powerlink | יומן פגישות #crm",
+        "duration": 313,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "crm-7",
+        "youtubeId": "AauWDKZSJMA",
+        "title": "Fireberry CRM והנהלת חשבונות: איך זה עובד?",
+        "duration": 294,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "crm-8",
+        "youtubeId": "6-CJ7Y6rwRk",
+        "title": "Fireberry by powerlink | לוחות בקרה / דאשבורד #crm",
+        "duration": 474,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "crm-9",
+        "youtubeId": "f3dm3XGMPq0",
+        "title": "איך להגדיר פרופיל משתמש ב-Fireberry CRM?",
+        "duration": 237,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "crm-10",
+        "youtubeId": "IVX2aKMeLLg",
+        "title": "Fireberry by powerlink | הוספת עובדים למערכת והגדרת הרשאות משתמשים #crm",
+        "duration": 308,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "crm-11",
+        "youtubeId": "ivOWEu6MtLw",
+        "title": "איך לנהל SOP, גיוס והכשרת עובדים ב-Fireberry CRM?",
+        "duration": 263,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "crm-12",
+        "youtubeId": "Q44E3TcVSlg",
+        "title": "איך לחבר מרכזיה טלפונית Voicenter ל-Fireberry CRM?",
+        "duration": 609,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "crm-13",
+        "youtubeId": "VxOANKZAzDg",
+        "title": "Fireberry by powerlink |  חיבור מרכזיה טלפונית Voicenter",
+        "duration": 172,
+        "order": 12,
+        "active": true
+      },
+      {
+        "id": "crm-14",
+        "youtubeId": "C1rJvPXL_80",
+        "title": "יום בחיי איש מכירות עם מערכת CRM Fireberry (לשעבר Powerlink)",
+        "duration": 530,
+        "order": 13,
+        "active": true
+      },
+      {
+        "id": "crm-15",
+        "youtubeId": "ugz1ce1H7LE",
+        "title": "CRM בתחום ה- תיירות ✈️🌍 CRM for tourist company",
+        "duration": 148,
+        "order": 14,
+        "active": true
+      },
+      {
+        "id": "crm-16",
+        "youtubeId": "wrxU92O3A64",
+        "title": "איך לחבר WooCommerce וחשבונית ירוקה ל-CRM באוטומציה?",
+        "duration": 361,
+        "order": 15,
+        "active": true
+      },
+      {
+        "id": "crm-17",
+        "youtubeId": "eNDlNkb4340",
+        "title": "חיבור קארדקום ו- ריווחית למערכת CRM #Cardcom #Rivhit",
+        "duration": 166,
+        "order": 16,
+        "active": true
+      },
+      {
+        "id": "crm-18",
+        "youtubeId": "EHbeLIB2AMc",
+        "title": "מערכת CRM למכללה, בית ספר וקורסים",
+        "duration": 267,
+        "order": 17,
+        "active": true
+      },
+      {
+        "id": "crm-19",
+        "youtubeId": "oVUv3MqIRyQ",
+        "title": "CRM לעמותה: ניהול תרומות וגיוס כספים",
+        "duration": 370,
+        "order": 18,
+        "active": true
+      },
+      {
+        "id": "crm-20",
+        "youtubeId": "gz2PhbzCITA",
+        "title": "CRM לניהול מלאי והצעות מחיר | CRM for for inventory management and quotes",
+        "duration": 189,
+        "order": 19,
+        "active": true
+      },
+      {
+        "id": "crm-21",
+        "youtubeId": "dD1T4Q-9QJQ",
+        "title": "איך מחשבים אחוז המרה מלידים ללקוחות Fireberry by powerlink #CRM",
+        "duration": 535,
+        "order": 20,
+        "active": true
+      },
+      {
+        "id": "crm-22",
+        "youtubeId": "HrbHOJW5VQU",
+        "title": "איך לעקוב אחרי יעדי אנשי מכירות ב-Fireberry? לוחות בקרה",
+        "duration": 459,
+        "order": 21,
+        "active": true
+      },
+      {
+        "id": "crm-23",
+        "youtubeId": "t-O0q54Ef8A",
+        "title": "הקמת מערכת מ-0 | הדרכה מלאה על Fireberry by powerlink #CRM",
+        "duration": 5246,
+        "order": 22,
+        "active": true
+      },
+      {
+        "id": "crm-24",
+        "youtubeId": "I6Y8-h8I3Hc",
+        "title": "לראות את מצב העסק בקליק | לוחות בקרה Fireberry by powerlink #CRM",
+        "duration": 193,
+        "order": 23,
+        "active": true
+      },
+      {
+        "id": "crm-25",
+        "youtubeId": "dK4KwooU5hw",
+        "title": "Fireberry Marketing CRM : המדריך המלא למערכת השיווק של פיירברי",
+        "duration": 1221,
+        "order": 24,
+        "active": true
+      },
+      {
+        "id": "crm-26",
+        "youtubeId": "_nicta8Gd7U",
+        "title": "Fireberry CRM: המדריך המלא למערכת",
+        "duration": 1093,
+        "order": 25,
+        "active": true
+      },
+      {
+        "id": "crm-27",
+        "youtubeId": "u-glQ8YPXco",
+        "title": "בונים טפסים ודפי נחיתה עם AI – ישירות בתוך CRM Fireberry!",
+        "duration": 570,
+        "order": 26,
+        "active": true
+      },
+      {
+        "id": "crm-28",
+        "youtubeId": "4-0GiiZXtcw",
+        "title": "איך לבנות מסעות לקוח חכמים עם AI בפיירברי | מדריך מלא CRM Fireberry",
+        "duration": 673,
+        "order": 27,
+        "active": true
+      },
+      {
+        "id": "crm-29",
+        "youtubeId": "EkWGSNpRF4A",
+        "title": "השוואת מערכות CRM: איזו מערכת CRM הכי טובה לעסק?",
+        "duration": 5247,
+        "order": 28,
+        "active": true
+      },
+      {
+        "id": "crm-30",
+        "youtubeId": "QjcjoFspUhg",
+        "title": "Monday VS Fireberry  | מאנדיי נגד פיירברי   #CRM",
+        "duration": 1164,
+        "order": 29,
+        "active": true
+      },
+      {
+        "id": "crm-31",
+        "youtubeId": "e8IXKjhZUcA",
+        "title": "Fireberry vs Zoho: איזו מערכת CRM טובה יותר לעסק?",
+        "duration": 991,
+        "order": 30,
+        "active": true
+      },
+      {
+        "id": "crm-32",
+        "youtubeId": "nZBe-CT6nZM",
+        "title": "Fireberry vs Origami: איזו מערכת CRM טובה יותר לעסק?",
+        "duration": 1154,
+        "order": 31,
+        "active": true
+      },
+      {
+        "id": "crm-33",
+        "youtubeId": "FlxQZ48n_q0",
+        "title": "Origami vs Zoho: איזו מערכת CRM טובה יותר לעסק?",
+        "duration": 1044,
+        "order": 32,
+        "active": true
+      }
+    ],
+    "title": "CRM — הדרכות Fireberry",
+    "mark": "CRM",
+    "category": "אוטומציה ועסקים",
+    "instructor": "חמי שריימן",
+    "description": "היכרות מעשית עם Fireberry: ניהול לקוחות, התאמת שדות ותהליכי עבודה.",
+    "color": "#278886",
+    "prerequisites": "ללא ידע קודם",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7iXxH1O3UXNXNJ-d0Bqt-CETcodeFJv_",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "erp",
+    "playlistId": "PL6F83AD989AAF1A3A",
+    "sourceTitle": "ממשק משתמש",
+    "lessons": [
+      {
+        "id": "erp-1",
+        "youtubeId": "5Tm-4QxEmAo",
+        "title": "ממשק המשתמש בגרסה 19.0 של פריוריטי",
+        "duration": 641,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "erp-2",
+        "youtubeId": "J7nZmpPYyA4",
+        "title": "מאיפה להתחיל - רישום נתונים בפריוריטי",
+        "duration": 1216,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "erp-3",
+        "youtubeId": "76ugeJBsv0s",
+        "title": "הממשק הוובי בפריוריטי",
+        "duration": 337,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "erp-4",
+        "youtubeId": "Dw7cSyOs8cY",
+        "title": "שליפה וחיפוש נתונים בפריוריטי ERP",
+        "duration": 680,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "erp-5",
+        "youtubeId": "kGXNH9CJyqc",
+        "title": "ניווט במערכת פריוריטי גרסה 17.0",
+        "duration": 663,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "erp-6",
+        "youtubeId": "EIOZvBrwwVw",
+        "title": "כלי העזרה בפריוריטי",
+        "duration": 397,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "erp-7",
+        "youtubeId": "VRoM9gnsSkI",
+        "title": "פריוריטי גרסה 17 - ממשק המשתמש החדש",
+        "duration": 498,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "erp-8",
+        "youtubeId": "dnPz1oXuo08",
+        "title": "ניהול תהליכים עסקיים בפריוריטי - BPM",
+        "duration": 650,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "erp-9",
+        "youtubeId": "beFKP4VbLMg",
+        "title": "עיצוב מסכים בפריוריטי",
+        "duration": 647,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "erp-10",
+        "youtubeId": "Cf3o6PJQCxk",
+        "title": "עיצוב מסמכי תבנית",
+        "duration": 501,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "erp-11",
+        "youtubeId": "P-_x1mDEqTE",
+        "title": "פריוריטי לייט-תוכנת ERP מבית פריוריטי סופטוור",
+        "duration": 701,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "erp-12",
+        "youtubeId": "BHKViIErD7E",
+        "title": "חדש ב-18.1: Priority Talk",
+        "duration": 58,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "erp-13",
+        "youtubeId": "E8ofLZYmx70",
+        "title": "עבודה רב-חברתית בפריוריטי, תוכנת ERP מבית פריוריטי סופטוור",
+        "duration": 487,
+        "order": 12,
+        "active": true
+      },
+      {
+        "id": "erp-14",
+        "youtubeId": "kFjbcUT0T-M",
+        "title": "ניהול תהליכים עסקיים בפריוריטי - BPM - ישן",
+        "duration": 608,
+        "order": 13,
+        "active": true
+      }
+    ],
+    "title": "ERP — מתחילים עם Priority",
+    "mark": "ERP",
+    "category": "אוטומציה ועסקים",
+    "instructor": "Priority Software — Israel",
+    "description": "סדרת הדרכה רשמית לממשק המשתמש של פריוריטי: ניווט, חיפוש ועבודה במערכת ERP.",
+    "color": "#5179a5",
+    "prerequisites": "ללא ידע קודם",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL6F83AD989AAF1A3A",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "data",
+    "playlistId": "PLkpyF7rPk7jZA_iQU2et7G4VSzwCO4gqt",
+    "sourceTitle": "קורס דאטה אנליסט למתחילים",
+    "lessons": [
+      {
+        "id": "data-1",
+        "youtubeId": "8w8M9GZobyI",
+        "title": "קורס דאטה אנליסט למתחילים - מבוא",
+        "duration": 178,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "data-2",
+        "youtubeId": "WCUiuQtFIbE",
+        "title": "קורס דאטה אנליסט למתחילים - איסוף נתונים",
+        "duration": 417,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "data-3",
+        "youtubeId": "TvBzjJdBrRU",
+        "title": "קורס דאטה אנליסט למתחילים - מידול נתונים",
+        "duration": 358,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "data-4",
+        "youtubeId": "tnyPsD-foi0",
+        "title": "קורס דאטה אנליסט למתחילים - אחסון נתונים",
+        "duration": 314,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "data-5",
+        "youtubeId": "LzUrUpHIbLU",
+        "title": "קורס דאטה אנליסט למתחילים - ניקוי נתונים",
+        "duration": 432,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "data-6",
+        "youtubeId": "2MdxfU1jBFg",
+        "title": "קורס דאטה אנליסט למתחילים - וויזואליזציית נתונים",
+        "duration": 311,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "data-7",
+        "youtubeId": "R21k1Gis-2s",
+        "title": "קורס דאטה אנליסט למתחילים - שלבים בניתוח נתונים",
+        "duration": 436,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "data-8",
+        "youtubeId": "Vb60d3w3Rzc",
+        "title": "קורס דאטה אנליסט למתחילים - מבוא לשפת ה-SQL",
+        "duration": 450,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "data-9",
+        "youtubeId": "L7s2ibrbOgg",
+        "title": "קורס דאטה אנליסט למתחילים - מבוא לסטטיסטיקה",
+        "duration": 308,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "data-10",
+        "youtubeId": "vc-bcQthOOM",
+        "title": "קורס דאטה אנליסט למתחילים - סוגי משתנים",
+        "duration": 286,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "data-11",
+        "youtubeId": "R8vBjOkrWR4",
+        "title": "קורס דאטה אנליסט למתחילים - מדדי מרכז",
+        "duration": 391,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "data-12",
+        "youtubeId": "z4TzCICj220",
+        "title": "קורס דאטה אנליסט למתחילים - מדדי פיזור",
+        "duration": 381,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "data-13",
+        "youtubeId": "I8eZFChEzVg",
+        "title": "קורס דאטה אנליסט למתחילים - מבוא להסתברות",
+        "duration": 236,
+        "order": 12,
+        "active": true
+      },
+      {
+        "id": "data-14",
+        "youtubeId": "s6HqyGk2-ZM",
+        "title": "קורס דאטה אנליסט למתחילים - התפלגות נתונים",
+        "duration": 308,
+        "order": 13,
+        "active": true
+      },
+      {
+        "id": "data-15",
+        "youtubeId": "G4E2_A4WJ4c",
+        "title": "קורס דאטה אנליסט למתחילים - מבוא לדגימות נתונים",
+        "duration": 303,
+        "order": 14,
+        "active": true
+      },
+      {
+        "id": "data-16",
+        "youtubeId": "pv6VqrLZzIU",
+        "title": "קורס דאטה אנליסט למתחילים - מבוא למבחני השערות",
+        "duration": 428,
+        "order": 15,
+        "active": true
+      },
+      {
+        "id": "data-17",
+        "youtubeId": "4kjwREnmtAs",
+        "title": "מבוא ל AB Testing",
+        "duration": 455,
+        "order": 16,
+        "active": true
+      },
+      {
+        "id": "data-18",
+        "youtubeId": "gWoe80fbFjA",
+        "title": "A/B Testing : אינטואיציה סטטסיטית",
+        "duration": 704,
+        "order": 17,
+        "active": true
+      }
+    ],
+    "title": "Data Analyst — מתחילים כאן",
+    "mark": "Data",
+    "category": "נתונים",
+    "instructor": "Ram Kedem",
+    "description": "צעדים ראשונים בעולם ניתוח הנתונים: כלים, חשיבה אנליטית ועבודה עם מידע.",
+    "color": "#c07b46",
+    "prerequisites": "ללא ידע קודם",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLkpyF7rPk7jZA_iQU2et7G4VSzwCO4gqt",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "python",
+    "playlistId": "PLX_fR5GkT9zJWtAAqtnRHvYxi2KKUWiKM",
+    "sourceTitle": "מדריך פייתון למתחילים Python",
+    "lessons": [
+      {
+        "id": "python-1",
+        "youtubeId": "J8pkD4g_lKk",
+        "title": "מדריך פייתון : למה אתם צריכים ללמוד פייתון ב-2025?",
+        "duration": 192,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "python-2",
+        "youtubeId": "DkYDlCXZALU",
+        "title": "מדריך פייתון : מתקינים פייתון וסביבת עבודה על המחשב",
+        "duration": 336,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "python-3",
+        "youtubeId": "XxrtGZ9S_ec",
+        "title": "מדריך פייתון : פותחים פרוייקט חדש | שיעור 1",
+        "duration": 389,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "python-4",
+        "youtubeId": "LtWLG3e61qg",
+        "title": "מדריך פייתון : הערות בקוד | שיעור 2",
+        "duration": 187,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "python-5",
+        "youtubeId": "i9ux-OdGqso",
+        "title": "מדריך פייתון : הדפסת נתונים על המסך | שיעור 3",
+        "duration": 326,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "python-6",
+        "youtubeId": "_NI5VKLWcXA",
+        "title": "מדריך פייתון : פעולות חשבון | שיעור 4",
+        "duration": 358,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "python-7",
+        "youtubeId": "NNV_5DrNeyk",
+        "title": "מדריך פייתון : פונקציות מתמטיות | שיעור 5",
+        "duration": 262,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "python-8",
+        "youtubeId": "aWEXaGrOxAY",
+        "title": "מדריך פייתון : פונקציות מינימום ומקסימום | שיעור 6",
+        "duration": 224,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "python-9",
+        "youtubeId": "_Q2tI1SbVw8",
+        "title": "מדריך פייתון : טיפוסי נתונים ומשתנים בפייתון | שיעור 7",
+        "duration": 187,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "python-10",
+        "youtubeId": "ia_CnDmHH6c",
+        "title": "מדריך פייתון : משתנים בפייתון | שיעור 8",
+        "duration": 200,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "python-11",
+        "youtubeId": "lDhkcjF84QM",
+        "title": "מדריך פייתון : מספרים שלמים בפייתון | שיעור 9",
+        "duration": 195,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "python-12",
+        "youtubeId": "4V-MsyWZsTY",
+        "title": "מדריך פייתון : מספרים עשרוניים בפייתון | שיעור 10",
+        "duration": 132,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "python-13",
+        "youtubeId": "ZPvSF8NJeYY",
+        "title": "מדריך פייתון : מחרוזות בפייתון | שיעור 11",
+        "duration": 378,
+        "order": 12,
+        "active": true
+      },
+      {
+        "id": "python-14",
+        "youtubeId": "FYO6t1ApG1c",
+        "title": "מדריך פייתון : הצבת ערכים דינמית במחרוזת | שיעור 12",
+        "duration": 152,
+        "order": 13,
+        "active": true
+      },
+      {
+        "id": "python-15",
+        "youtubeId": "X0djSTUY5JM",
+        "title": "מדריך פייתון : אינדקסים וחתכים במחרוזות | שיעור 13",
+        "duration": 383,
+        "order": 14,
+        "active": true
+      },
+      {
+        "id": "python-16",
+        "youtubeId": "tVft-_wmB1E",
+        "title": "מדריך פייתון : איך עובדים עם מתודות בפייתון | שיעור 14",
+        "duration": 308,
+        "order": 15,
+        "active": true
+      },
+      {
+        "id": "python-17",
+        "youtubeId": "jto7LuINbso",
+        "title": "מדריך פייתון : ערכי אמת ושקר בפייתון | שיעור 15",
+        "duration": 201,
+        "order": 16,
+        "active": true
+      },
+      {
+        "id": "python-18",
+        "youtubeId": "KxKu23AtSlc",
+        "title": "מדריך פייתון : תנאים לוגים בפייתון | שיעור 16",
+        "duration": 328,
+        "order": 17,
+        "active": true
+      },
+      {
+        "id": "python-19",
+        "youtubeId": "YUrg4ayUB1g",
+        "title": "מדריך פייתון : המרת טיפוסים בפייתון | שיעור 17",
+        "duration": 258,
+        "order": 18,
+        "active": true
+      },
+      {
+        "id": "python-20",
+        "youtubeId": "3wcIPLFQx0c",
+        "title": "מדריך פייתון : איך לקבל נתונים ממשתמש בזמן ריצת התוכנית | שיעור 18",
+        "duration": 178,
+        "order": 19,
+        "active": true
+      },
+      {
+        "id": "python-21",
+        "youtubeId": "AMr-YreJUtg",
+        "title": "מדריך פייתון : משפטי תנאי בפייתון | שיעור 19",
+        "duration": 486,
+        "order": 20,
+        "active": true
+      },
+      {
+        "id": "python-22",
+        "youtubeId": "uqLGoTWYYYE",
+        "title": "מדריך פייתון : פתרון תרגילים מסכמים את החלק הראשון בקורס | שיעורי בית 1",
+        "duration": 1233,
+        "order": 21,
+        "active": true
+      },
+      {
+        "id": "python-23",
+        "youtubeId": "h-157rwqPYA",
+        "title": "מדריך פייתון : מה זה אובייקט איטרטיבי בפייתון? מבוא לאוספים | שיעור 20",
+        "duration": 135,
+        "order": 22,
+        "active": true
+      },
+      {
+        "id": "python-24",
+        "youtubeId": "KpT6PaaJJU8",
+        "title": "מדריך פייתון : רשימות בפייתון | שיעור 21",
+        "duration": 281,
+        "order": 23,
+        "active": true
+      },
+      {
+        "id": "python-25",
+        "youtubeId": "seRo3nt3FTg",
+        "title": "מדריך פייתון : איך להוסיף ולמחוק איברים ברשימה? | שיעור 22",
+        "duration": 274,
+        "order": 24,
+        "active": true
+      },
+      {
+        "id": "python-26",
+        "youtubeId": "0x85-kcWzPc",
+        "title": "מדריך פייתון : איך למצוא איבר ספציפי ברשימה? | שיעור 23",
+        "duration": 338,
+        "order": 25,
+        "active": true
+      },
+      {
+        "id": "python-27",
+        "youtubeId": "SRJgWnEAZ1A",
+        "title": "מדריך פייתון : איך לאחד רשימות? | שיעור 24",
+        "duration": 205,
+        "order": 26,
+        "active": true
+      },
+      {
+        "id": "python-28",
+        "youtubeId": "8dqYy9XCnzM",
+        "title": "מדריך פייתון : איך להמיר אובייקטים שונים למחרוזת? | שיעור 25",
+        "duration": 315,
+        "order": 27,
+        "active": true
+      },
+      {
+        "id": "python-29",
+        "youtubeId": "M_pt2ouY3CM",
+        "title": "מדריך פייתון : איך למיין איברים ברשימה לפי סדר? | שיעור 26",
+        "duration": 401,
+        "order": 28,
+        "active": true
+      },
+      {
+        "id": "python-30",
+        "youtubeId": "bEohBqUGVQk",
+        "title": "מדריך פייתון : איך להעתיק רשימה בצורה נכונה? | שיעור 27",
+        "duration": 238,
+        "order": 29,
+        "active": true
+      },
+      {
+        "id": "python-31",
+        "youtubeId": "7KsmvKjwrMI",
+        "title": "מדריך פייתון : רשימות מקוננות ומטריצות בפייתון | שיעור 28",
+        "duration": 383,
+        "order": 30,
+        "active": true
+      },
+      {
+        "id": "python-32",
+        "youtubeId": "Gi2KOXGeXb8",
+        "title": "מדריך פייתון : איך לדעת כמה איברים יש ברשימה? | שיעור 29",
+        "duration": 283,
+        "order": 31,
+        "active": true
+      },
+      {
+        "id": "python-33",
+        "youtubeId": "K9rUv7YMaqM",
+        "title": "מדריך פייתון : האוסף השני - tuple | שיעור 30",
+        "duration": 127,
+        "order": 32,
+        "active": true
+      },
+      {
+        "id": "python-34",
+        "youtubeId": "puw8XUHBumw",
+        "title": "מדריך פייתון : לולאות while בפייתון | שיעור 31",
+        "duration": 492,
+        "order": 33,
+        "active": true
+      },
+      {
+        "id": "python-35",
+        "youtubeId": "Xx7YYXEMZMU",
+        "title": "מדריך פייתון : לולאות for בפייתון | שיעור 32",
+        "duration": 314,
+        "order": 34,
+        "active": true
+      },
+      {
+        "id": "python-36",
+        "youtubeId": "iRmQqT1UZLU",
+        "title": "מדריך פייתון : מה אפשר לעשות עם לולאות מקוננות? | שיעור 33",
+        "duration": 366,
+        "order": 35,
+        "active": true
+      },
+      {
+        "id": "python-37",
+        "youtubeId": "XM97Du1VSwo",
+        "title": "מדריך פייתון : איך להשפיע על זרימת הלולאה? | שיעור 34",
+        "duration": 369,
+        "order": 36,
+        "active": true
+      },
+      {
+        "id": "python-38",
+        "youtubeId": "0xt8d3fdkCA",
+        "title": "מדריך פייתון : פתרון תרגילים מסכמים את החלק השני בקורס | שיעורי בית 2",
+        "duration": 940,
+        "order": 37,
+        "active": true
+      },
+      {
+        "id": "python-39",
+        "youtubeId": "xEKW5Xjj2AA",
+        "title": "מדריך פייתון : מגדירים פונקציות שלנו בפייתון | שיעור 35",
+        "duration": 384,
+        "order": 38,
+        "active": true
+      },
+      {
+        "id": "python-40",
+        "youtubeId": "7T2stCFXuNk",
+        "title": "מדריך פייתון : תחום הכרזה של משתנים ואיך להשפיע עליוהם | שיעור 36",
+        "duration": 369,
+        "order": 39,
+        "active": true
+      }
+    ],
+    "title": "Python — תכנות מהצעד הראשון",
+    "mark": "Py",
+    "category": "תכנות",
+    "instructor": "Nikitas",
+    "description": "קורס מסודר למתחילים בפייתון: יסודות השפה, תרגול ופתרון בעיות.",
+    "color": "#347ea4",
+    "prerequisites": "ללא ידע קודם",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLX_fR5GkT9zJWtAAqtnRHvYxi2KKUWiKM",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "java",
+    "playlistId": "PLEtZq1oDporjA5XzMUbRwbCKWp1bRXdF_",
+    "sourceTitle": "מדריך Java למתחילים",
+    "lessons": [
+      {
+        "id": "java-1",
+        "youtubeId": "1t8OwTXsTZU",
+        "title": "מדריך java - שיעור 1 - מבוא",
+        "duration": 1330,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "java-2",
+        "youtubeId": "kNpUcVDH4kw",
+        "title": "מדריך java - שיעור 2 - סוגי משתנים",
+        "duration": 913,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "java-3",
+        "youtubeId": "DrJ-jb0eg9Y",
+        "title": "מדריך Java - שיעור 3: Strings (מחרוזות)",
+        "duration": 541,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "java-4",
+        "youtubeId": "c-djgHWLEtA",
+        "title": "מדריך Java - שיעור 4: Arrays (מערכים)",
+        "duration": 685,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "java-5",
+        "youtubeId": "AI2WLkKXMkM",
+        "title": "מדריך Java - שיעור 5: מערכים מולטי מימדים (multi dimensional arrays)",
+        "duration": 320,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "java-6",
+        "youtubeId": "sDpgWhyBEb0",
+        "title": "מדריך Java - שיעור 6: Constants",
+        "duration": 265,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "java-7",
+        "youtubeId": "ESVaHIdkW-4",
+        "title": "מדריך Java - שיעור 7: Math - מתמטיקה",
+        "duration": 456,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "java-8",
+        "youtubeId": "50PMY_xCjcQ",
+        "title": "מדריך Java - שיעור 8:  Math Class",
+        "duration": 601,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "java-9",
+        "youtubeId": "P_lyg1OwePY",
+        "title": "מדריך java - שיעור 9: Formatting Numbers",
+        "duration": 432,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "java-10",
+        "youtubeId": "DrdSqXeC_fE",
+        "title": "מדריך Java - שיעור 10: קריאת קלט מהמשתמש",
+        "duration": 696,
+        "order": 9,
+        "active": true
+      }
+    ],
+    "title": "Java — יסודות ופיתוח",
+    "mark": "Java",
+    "category": "תכנות",
+    "instructor": "אלי נעים",
+    "description": "משתנים, מערכים, מחלקות ועקרונות התכנות בשפת Java.",
+    "color": "#b96544",
+    "prerequisites": "ללא ידע קודם",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLEtZq1oDporjA5XzMUbRwbCKWp1bRXdF_",
+    "verifiedAt": "2026-09-26"
+  },
+  {
+    "id": "mongodb",
+    "playlistId": "PL3LHCvSXd3voGdT3fTWWiOR2L0Zyn2NPy",
+    "sourceTitle": "קורס NoSQL - MongoDB",
+    "lessons": [
+      {
+        "id": "mongodb-1",
+        "youtubeId": "ME6Efb36nPk",
+        "title": "מבוא ל-MongoDB",
+        "duration": 128,
+        "order": 0,
+        "active": true
+      },
+      {
+        "id": "mongodb-2",
+        "youtubeId": "b7JdWlvnq-w",
+        "title": "הסבר על BigData",
+        "duration": 263,
+        "order": 1,
+        "active": true
+      },
+      {
+        "id": "mongodb-3",
+        "youtubeId": "d0ozeWiZwcI",
+        "title": "סוגים של NoSQL",
+        "duration": 175,
+        "order": 2,
+        "active": true
+      },
+      {
+        "id": "mongodb-4",
+        "youtubeId": "kufDNWMxk-0",
+        "title": "יתרונות של MongoDB",
+        "duration": 274,
+        "order": 3,
+        "active": true
+      },
+      {
+        "id": "mongodb-5",
+        "youtubeId": "8oWDNWhf6Ro",
+        "title": "מבנה נתונים ב-MongoDB",
+        "duration": 381,
+        "order": 4,
+        "active": true
+      },
+      {
+        "id": "mongodb-6",
+        "youtubeId": "TXH6D486VqU",
+        "title": "מאפיינים מרכזיים של MongoDB",
+        "duration": 269,
+        "order": 5,
+        "active": true
+      },
+      {
+        "id": "mongodb-7",
+        "youtubeId": "mjF5uNHF6uk",
+        "title": "השוואה בין SQL Server לבין MongoDB",
+        "duration": 157,
+        "order": 6,
+        "active": true
+      },
+      {
+        "id": "mongodb-8",
+        "youtubeId": "Cza3VMyrMho",
+        "title": "ענן של Atlas - MongoDB",
+        "duration": 100,
+        "order": 7,
+        "active": true
+      },
+      {
+        "id": "mongodb-9",
+        "youtubeId": "mFUWMiUu_pI",
+        "title": "התקנת MongoDB",
+        "duration": 386,
+        "order": 8,
+        "active": true
+      },
+      {
+        "id": "mongodb-10",
+        "youtubeId": "U_e5u6fdonQ",
+        "title": "עבודה עם Compass ב- MongoDB",
+        "duration": 363,
+        "order": 9,
+        "active": true
+      },
+      {
+        "id": "mongodb-11",
+        "youtubeId": "ZtDRf18PNvo",
+        "title": "התקנה של MongoDB דרך CMD",
+        "duration": 189,
+        "order": 10,
+        "active": true
+      },
+      {
+        "id": "mongodb-12",
+        "youtubeId": "QIM7qqJqDKs",
+        "title": "עדכון נתונים ב-MongoDB",
+        "duration": 439,
+        "order": 11,
+        "active": true
+      },
+      {
+        "id": "mongodb-13",
+        "youtubeId": "rjuxOONy-yA",
+        "title": "פקודות ב-MongoDB",
+        "duration": 484,
+        "order": 12,
+        "active": true
+      }
+    ],
+    "title": "MongoDB — מבוא ל־NoSQL",
+    "mark": "Mongo",
+    "category": "נתונים",
+    "instructor": "מכללת פרקטיקיו",
+    "description": "סדרת מבוא למסדי נתונים מסוג NoSQL ולהיכרות עם MongoDB.",
+    "color": "#3d966b",
+    "prerequisites": "היכרות בסיסית עם תכנות",
+    "language": "עברית",
+    "level": "מתחילים",
+    "status": "published",
+    "accessType": "free",
+    "priceMinor": 0,
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL3LHCvSXd3voGdT3fTWWiOR2L0Zyn2NPy",
+    "verifiedAt": "2026-09-26"
+  }
+]
